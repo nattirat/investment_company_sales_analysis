@@ -5,7 +5,7 @@ This project is a part of the curriculum of UE Machine Learning (Supervised Lear
 
 Objective: Detecting high-growth firms
 
-The data that is in this assigment comes from a random extraction of the Survey on Business Strategies (Encuesta Sobre Estrategias Empresariales – ESEE). This annual survey gathers extensive information on around 2,000 manufacturing companies operating in Spain and employing at least ten workers. The dataset at your disposal covers the period 2000–2012.
+The dataset in this assigment comes from a random extraction of the Survey on Business Strategies (Encuesta Sobre Estrategias Empresariales – ESEE). This annual survey gathers extensive information on around 2,000 manufacturing companies operating in Spain and employing at least ten workers. The dataset at your disposal covers the period 2000–2012.
 
 With this type of information, a data analyst can finally start looking for (potentially interesting) correlations and patterns regarding what determines high-growth firms (HGF). 
 
