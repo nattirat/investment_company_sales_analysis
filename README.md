@@ -1,5 +1,6 @@
 # Machine Learning Models to Predict Sales and High-Growth-Rate Companies
-This project is a part of the curriculum of UE Machine Learning (Supervised Learning) under Master 2 - Data Science de la Faculté des Sciences Economiques et de Gestion, Université de Strasbourg. 
+This project is a part of the curriculum of UE Machine Learning (Supervised Learning) under Master 2 - Data Science
+Faculté des Sciences Economiques et de Gestion, Université de Strasbourg, France
 
 # Context 
 
